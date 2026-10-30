@@ -21,7 +21,7 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
-  base: '/komiks/', // <-- Добавили для GitHub Pages
+  base: '/komix/', // <-- Добавили для GitHub Pages
   plugins: [
     figmaAssetResolver(),
     react(),
