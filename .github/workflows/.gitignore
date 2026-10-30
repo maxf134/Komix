@@ -1,0 +1,20 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+dist-ssr/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Кэш
+.cache/
+.vite/
+
+# Редакторы
+.vscode/*
+!.vscode/settings.json
+.idea/
+.DS_Store
